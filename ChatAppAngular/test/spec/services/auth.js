@@ -14,5 +14,4 @@ describe('Service: Auth', function () {
   it('should do something', function () {
     expect(!!Auth).toBe(true);
   });
-
 });
